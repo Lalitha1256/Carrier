@@ -5,7 +5,7 @@ public class C implements A,B{
         System.out.println("Aclass");
 
     }
-    public void add(){
+    public void sub(){
         System.out.println("Bclass");
     }
     public void mul(){
