@@ -1,5 +1,7 @@
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import org.openqa.selenium.chrome.ChromeDriver;
+
 public class SeleniumSessions {
 
     public static void main(String[] args) {
@@ -8,3 +10,4 @@ public class SeleniumSessions {
         driver.get("https://www.amazon.in");
     }
 }
+
